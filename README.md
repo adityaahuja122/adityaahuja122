@@ -1,6 +1,6 @@
 ## Hi, I'm Aditya 👋
 
-A backend developer who enjoys building reliable systems and working closely with teams to deliver clean, well-structured solutions. I value collaboration, clear communication, and writing code that’s easy to maintain and grow.
+A backend developer who enjoys building reliable systems and working closely with teams to deliver clean, well-structured solutions. I value collaboration, clear communication, and writing code that is easy to maintain and grow.
 
 ### ⚙️ Tech Stack
 - PHP, Laravel, MySQL, Redis
