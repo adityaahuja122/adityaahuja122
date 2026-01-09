@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Aditya 👋
 
-<!--
-**adityaahuja122/adityaahuja122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused developer with strong PHP and Laravel fundamentals.  
+Currently learning WordPress plugin development and open-source contribution workflows.
 
-Here are some ideas to get you started:
+### ⚙️ Tech Stack
+- PHP, Laravel, MySQL, Redis
+- JavaScript, React
+- REST APIs, JWT
+- WordPress (learning – plugins, hooks & filters)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- WordPress core & plugin architecture
+- Reading large open-source PHP codebases
+
+### 🔗 Links
+- GitLab (main work): https://gitlab.com/adityaahuja020
+- Resume: https://drive.google.com/file/d/19_i1kJSkWgzdw2khqOfWA7fylNwUOolF/view?usp=sharing
+- LinkedIn: https://www.linkedin.com/in/aditya-ahujaa/
